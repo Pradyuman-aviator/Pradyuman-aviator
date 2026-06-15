@@ -13,16 +13,5 @@
 
 <br/>
 
-## Contribution Graph
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Pradyuman-aviator/Pradyuman-aviator/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pradyuman-aviator/Pradyuman-aviator/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake" src="https://raw.githubusercontent.com/Pradyuman-aviator/Pradyuman-aviator/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>  
-</div>
-
-<br/>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:06b6d4&height=80&section=footer" />
+    
