@@ -1,7 +1,7 @@
 <!-- TYPING -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=06b6d4&center=true&vCenter=true&width=450&height=45&lines= Oncology+%7C+Competitive+Programming;Research+%26+Innovation;Kaggle+%7C+Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=06b6d4&center=true&vCenter=true&width=500&height=45&lines=AI%20%7C%20Oncology%20%7C%20Competitive%20Programming;Research%20%26%20Innovation;Kaggle%20%7C%20Problem%20Solver)](https://git.io/typing-svg)
 
 </div>
 
